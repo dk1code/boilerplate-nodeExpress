@@ -1,0 +1,21 @@
+{
+  "name": "boilerplate-nodeexpress",
+  "version": "1.0.0",
+  "description": "A boilerplate for self-coded Express backends",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "rest",
+    "restful",
+    "express",
+    "backend"
+  ],
+  "author": "dk1",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
